@@ -6,10 +6,10 @@
 - 📫 Me contate pelo email: victorpereiraprog@gmail.com
 - 😄 Pronouns: He/Him
   
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/vituinha">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vituinha&rank_icon=github&bg_color=0D1117&text_color=A60026&title_color=CC2B00&border_color=E00004" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/vituinha">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vituinha&layout=compact&langs_count=8&card_width=320&bg_color=0D1117&text_color=A60026&title_color=CC2B00&border_color=E00004" />
 </a>
 
