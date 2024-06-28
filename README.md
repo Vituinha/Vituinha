@@ -5,5 +5,6 @@
 - 💬 Me pergunte sobre qualquer assunto, farei meu melhor para te ajudar
 - 📫 Me contate pelo email: victorpereiraprog@gmail.com
 - 😄 Pronouns: He/Him
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vituinha)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vituinha&show_icons=true&theme=transparent)
