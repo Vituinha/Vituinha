@@ -7,9 +7,9 @@
 - 😄 Pronouns: He/Him
   
 <a href="https://github.com/vituinha">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vituinha&rank_icon=github&bg_color=0D1117&text_color=A60026&title_color=CC2B00&border_color=E00004" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vituinha&rank_icon=github&bg_color=0D1117&text_color=2f81f7&title_color=2f81f7&border_color=2f81f7" />
 </a>
 <a href="https://github.com/vituinha">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vituinha&layout=compact&langs_count=8&card_width=320&bg_color=0D1117&text_color=A60026&title_color=CC2B00&border_color=E00004" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vituinha&layout=compact&langs_count=8&card_width=320&bg_color=0D1117&text_color=2f81f7&title_color=2f81f7&border_color=2f81f7" />
 </a>
 
